@@ -6,44 +6,44 @@ markdown is a simple way to creat a text on the web you can format words as bold
 
 
 
-<h7>for **headrs** for example:
+<h7>for **headrs** for example: 
 
-we use h1 between <> 
-
-
+we use h1 between <>  
 
 
-to do some **Emphasis**
+
+
+to do some **Emphasis** 
 
 
 
 between two stars for *italic*
 
 
-
-four stars for **bold** text
-
-
-
-
-**lists** 
+ 
+four stars for **bold** text 
 
 
 
 
-we have orderd and unorderd liste 
+**lists**  
 
 
 
-* for **unorderd** start the text with a star 
+
+we have orderd and unorderd liste  
 
 
 
-1. for orderd start the text with a number
+* for **unorderd** start the text with a star  
 
 
 
-if want to add a Blockquotes
+1. for orderd start the text with a number 
+
+
+
+if want to add a Blockquotes  
 
 
 
