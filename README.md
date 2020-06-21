@@ -7,6 +7,7 @@ for **headers**
 we type h between angle brackets
 
 **Emphasis**
+
 putting the text between a star it will be *italic*
 putting the text between two star it will be **bold**
 between under scores for repeat the same thing\
