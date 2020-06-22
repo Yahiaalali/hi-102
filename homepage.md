@@ -6,4 +6,4 @@ new life line
 
 # markdown| mindset
 --------- | ---------
-https://yahiaalali.github.io/learning-journal/home| https://yahiaalali.github.io/learning-journal/
+https://yahiaalali.github.io/learning-journal/home | https://yahiaalali.github.io/learning-journal/
