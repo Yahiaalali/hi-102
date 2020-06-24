@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html long='en'>
+    <head>
+        <meta charset="UTF">
+        <meta name="viewport" content="width=device-width">
+        <title>cardealres</title>
+    </head>
+<body>
+    <header>
+        <h1>cardealres</h1>
+        <nav>
+            <ul>
+                <li>
+                    <a href=""project></a>
+                </li>
+                <li>
+                    <a href="">about</a>
+                </li>
+            </ul>
+        </nav>
+    </header>
+    <main>
+        <article>
+            <section>
+                <img src="https://carusreviews.com/wp-content/uploads/2018/04/Car-Dealers.gif">
+            </section>
+            <section>
+                <p></p>
+            </section>
+        </article>
+    </main>
+    <footer>
+        <p></p>
+    </footer>
+</body>
+</html>
